@@ -3,7 +3,7 @@ mcp/
 Status: FOUNDATION BUILD — NO PRODUCTION CODE OR AUTOMATION
 
 Purpose:
-This folder is reserved for future Kage Agency HQ engineering materials.
+Future Model Context Protocol specifications, connector policies, and approved server configurations
 
 Rules:
 - Do not add credentials, API keys, passwords, tokens, cookies, recovery codes,
