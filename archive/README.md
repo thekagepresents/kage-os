@@ -3,7 +3,7 @@
 Status: FOUNDATION BUILD — NO PRODUCTION CODE OR AUTOMATION
 
 Purpose:
-This folder is reserved for future Kage Agency HQ engineering materials.
+Superseded technical specifications and archived engineering material; never active production source
 
 Rules:
 - Do not add credentials, API keys, passwords, tokens, cookies, recovery codes,
