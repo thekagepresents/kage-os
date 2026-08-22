@@ -3,7 +3,7 @@ governance/
 Status: FOUNDATION BUILD — NO PRODUCTION CODE OR AUTOMATION
 
 Purpose:
-This folder is reserved for future Kage Agency HQ engineering materials.
+Governance policies, approval gates, safety controls, decision standards, and audit rules
 
 Rules:
 - Do not add credentials, API keys, passwords, tokens, cookies, recovery codes,
