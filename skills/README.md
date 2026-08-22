@@ -4,6 +4,7 @@ Status: FOUNDATION BUILD — NO PRODUCTION CODE OR AUTOMATION
 
 Purpose:
 Versioned Kage skill specifications and reusable instruction packages
+
 Rules:
 - Do not add credentials, API keys, passwords, tokens, cookies, recovery codes,
   payment data, private personal data, or secrets.
