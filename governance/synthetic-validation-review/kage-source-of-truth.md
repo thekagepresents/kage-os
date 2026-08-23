@@ -120,30 +120,45 @@ The review applies only to:
 
 ```text
 Review Status:
-Pending synthetic validation review
+Synthetic validation review completed
 
 Tests Reviewed:
-None yet
+- TST-SOT-001 — Confirmed fictional event date
+- TST-SOT-002 — Fictional public source conflicts with approved record
+- TST-SOT-003 — Fictional draft sponsor proposal
+- TST-SOT-004 — Fictional Founder directive requiring canonical update
+- TST-SOT-005 — Unknown fictional ticketing detail
+- TST-SOT-006 — Fictional restricted information
 
 Result:
-Pending
+PASS — no material specification defects identified
 
 Findings:
-Pending
+- Approved fictional records are correctly treated as confirmed facts only within
+  the stated fictional test context.
+- Conflicting public and canonical records are surfaced without silent
+  resolution.
+- Draft commercial material is not treated as an approved commitment, revenue,
+  or contract.
+- Founder directives guide work within stated scope while preserving the need to
+  update canonical records through the appropriate approved process.
+- Missing information remains unknown rather than inferred.
+- Restricted information is minimized and not reproduced.
+- Every expected scenario preserves the non-executing boundary.
 
 Required Revisions:
-Pending
+None identified during synthetic validation review.
 
 Founder Follow-Up Decision:
-Pending
+Pending — decide whether the skill remains founder-reviewed for synthetic
+validation only or whether to approve limited internal, non-executing use.
 
 Operational Approval:
-Not granted
+Not granted.
 
 Execution Status:
-Not executed
+Not executed.
 ```
-
 ## Completion Rule
 
 After the synthetic review, record one of these outcomes:
