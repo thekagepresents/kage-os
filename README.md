@@ -115,6 +115,7 @@ All substantive changes require Founder approval and must include:
 
 ## Repository Status
 
-Private repository.
+switch Private repository to public 
 Founder controlled.
-No external integrations active.
+allow external connectors such as claude
+
