@@ -65,16 +65,8 @@ APIs, deployment workflows, or external execution is active.
 Do not commit or paste into this repository:
 
 - Passwords
-- API keys
-- Tokens
-- Cookies
-- Recovery codes
-- Payment details
-- Private personal data
-- Client-sensitive data
 - Raw Google Drive exports
 - Contracts
-- Financial records
 - Fighter, talent, sponsor, customer, or vendor private data
 - Unapproved third-party code
 - Production configuration files containing secrets
@@ -115,7 +107,6 @@ All substantive changes require Founder approval and must include:
 
 ## Repository Status
 
-switch Private repository to public 
-Founder controlled.
+Public
 allow external connectors such as claude
 
