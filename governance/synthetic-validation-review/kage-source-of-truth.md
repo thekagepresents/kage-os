@@ -117,48 +117,27 @@ The review applies only to:
 | TST-SOT-006 | Fictional restricted information |
 
 ## Validation Outcome Record
-
-```text
-Review Status:
-Synthetic validation review completed
-
-Tests Reviewed:
-- TST-SOT-001 — Confirmed fictional event date
-- TST-SOT-002 — Fictional public source conflicts with approved record
-- TST-SOT-003 — Fictional draft sponsor proposal
-- TST-SOT-004 — Fictional Founder directive requiring canonical update
-- TST-SOT-005 — Unknown fictional ticketing detail
-- TST-SOT-006 — Fictional restricted information
-
-Result:
-PASS — no material specification defects identified
-
-Findings:
-- Approved fictional records are correctly treated as confirmed facts only within
-  the stated fictional test context.
-- Conflicting public and canonical records are surfaced without silent
-  resolution.
-- Draft commercial material is not treated as an approved commitment, revenue,
-  or contract.
-- Founder directives guide work within stated scope while preserving the need to
-  update canonical records through the appropriate approved process.
-- Missing information remains unknown rather than inferred.
-- Restricted information is minimized and not reproduced.
-- Every expected scenario preserves the non-executing boundary.
-
-Required Revisions:
-None identified during synthetic validation review.
-
 Founder Follow-Up Decision:
-Pending — decide whether the skill remains founder-reviewed for synthetic
-validation only or whether to approve limited internal, non-executing use.
+LIMITED INTERNAL USE APPROVED
+
+Permitted Use:
+Internal classification of information in drafts, plans, research briefs, and
+approval requests only.
+
+Excluded Use:
+External-system access, Google Drive access, real-record updates, external
+communications, publishing, financial activity, contracting, access changes,
+automation, connector activation, agent activation, and all external execution.
 
 Operational Approval:
 Not granted.
 
+Execution Authority:
+None.
+
 Execution Status:
-Not executed.
-```
+No external action authorized.
+
 ## Completion Rule
 
 After the synthetic review, record one of these outcomes:
